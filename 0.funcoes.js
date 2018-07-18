@@ -1,4 +1,7 @@
 //Number
+Number.isInteger()
+Number.toFixed() // imprime só algumas casas
+Number.toString()
 
 //Math
 
@@ -13,9 +16,14 @@ Array.slice() //O método slice() extrai uma sessão de uma string e retorna uma
     // Callbacks e Closures
 Array.filter() // filtra os valores dentro do array
 Array.forEach() // Para cada elemento dentro do array ou objeto, uma função de callback é executada
-Array.reverse() // altera a ordenaçao de um array
+Array.reverse() // altera a ordenaçao de um array de forma reversa
+Array.sort() // ordena um array
 Array.join(separador) // tranforma um array em string similar ao implode do php
-
+Array.length // tamanho do array
+Array.splice(1, 2) //serve para add elementos, remover elementos, e add e remover ao mesmo tempo, a partir do terceiro parametro add elementos
+Array.pop() //remove o ultimo elemento do array
+Array.shift() //remove e retorno o primeiro elemento de um array
+Array.unshift(valor) // inseri um valor no inicio do array 
 //DOM
 
 
