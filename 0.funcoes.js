@@ -52,3 +52,6 @@ Object.preventExtensions(objeto) //impede que o objeto seja extendido, não adic
 Object.seal(objeto) //impede que o objeto seja extendido, não adiciona novos atributos, não é possivel excluir atributos
 Object.isExtensible() //verifica se um objeto é extensivel 
 Object.isSealed() //verifica se um objeto esta selado 
+
+
+parseFloat() // Converte String em numero flutuante
