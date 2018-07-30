@@ -9,7 +9,7 @@ Number.toString()
 String.split(separador) // transforma uma string em array similar ao explode do php
 
 //Arrays
-
+Array.concat() // concatena varios arrays em um -> similar ao array_merge do php
 Array.push() // adiciona valores no fim do array
 Array.pop() // remove e retorna o ultimo valor do array
 Array.slice() //O método slice() extrai uma sessão de uma string e retorna uma nova  string.
