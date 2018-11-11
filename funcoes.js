@@ -55,3 +55,4 @@ Object.isSealed() //verifica se um objeto esta selado
 
 
 parseFloat() // Converte String em numero flutuante
+
